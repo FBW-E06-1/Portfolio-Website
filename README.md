@@ -1,9 +1,9 @@
 # Portfolio Website
 
-This is presentation of the projects I've been working on at DCI. 
-There is no better opportunity to learn and show off our skills than a beautiful portfolio website.  
+This is showcase of the projects I have worked  on at DCI. 
+There is no better opportunity to learn and showcase our skills than a beautiful portfolio website.  
 
-After finishing the first module, I  have the ability to write HTML, CSS, and responsive media queries.  I also know how to identify and write responsive units.    
+After completing the first module, I  am able to write HTML, CSS, and responsive media queries.  I also know how to identify and write responsive units.    
 
 ## Project Set Up
 
